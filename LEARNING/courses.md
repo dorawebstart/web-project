@@ -21,6 +21,20 @@
 
 Примітка: усі три курси використовують Python, тому база Python потрібна перед ними.
 
+## Кібербезпека (з відео @magerdev1)
+
+| # | Курс | Посилання | Обсяг | Про що |
+|---|---|---|---|---|
+| 1 | pwn.college (Arizona State University) | https://pwn.college | Розділи-«доджо», по кожному модулі й задачі | Практична кібербезпека й хакінг прямо в браузері, безкоштовно |
+
+Матеріал треба проходити по порядку:
+
+1. **Getting Started (основи):** Start Here, Linux Luminarium (Linux і термінал), Computing 101, Playing With Programs.
+2. **Core Material (пояси, як у бойових мистецтвах):** Intro to Cybersecurity, Program Security, System Security, Software Exploitation.
+3. **Community Material (бейджі):** додаткові доджо, наприклад Web Security, Cryptographic Exploitation, x86 Exploitation, CTF-архіви.
+
+Примітка: знадобляться Linux-термінал і Python (для скриптів-експлойтів), а пізніше трохи C та асемблер.
+
 ## Інші
 
 _(додаватиму сюди)_
