@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Каталог — навчальний проєкт</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <header class="topbar">
+    <h1>Каталог товарів/послуг</h1>
+    <p class="subtitle">Навчальний проєкт: один сайт, два способи наповнення контентом.</p>
+  </header>
+
+  <section class="source-panel">
+    <div class="source-row">
+      <label>Джерело даних:</label>
+
+      <button class="source-btn active" data-source="demo">
+        Демо-дані (без налаштувань)
+      </button>
+
+      <button class="source-btn" data-source="sheets">
+        Google Таблиця
+      </button>
+
+      <button class="source-btn" data-source="api">
+        Telegram-бот (API)
+      </button>
+    </div>
+
+    <div id="sheets-config" class="source-config hidden">
+      <label for="sheet-id">ID Google Таблиці:</label>
+      <input id="sheet-id" type="text" placeholder="напр. 1AbCDefGhIJkLmNoPQRstuVWxyz">
+      <button id="sheet-load">Завантажити</button>
+      <p class="hint">Як отримати ID та формат колонок — дивись <code>google-sheets/README.md</code>.</p>
+    </div>
+
+    <div id="api-config" class="source-config hidden">
+      <label for="api-url">Адреса API бота:</label>
+      <input id="api-url" type="text" placeholder="http://localhost:5000" value="http://localhost:5000">
+      <button id="api-load">Завантажити</button>
+      <p class="hint">Запусти <code>telegram-bot/api_server.py</code> — дивись <code>telegram-bot/README.md</code>.</p>
+    </div>
+  </section>
+
+  <section class="filters">
+    <input id="search" type="text" placeholder="Пошук за назвою...">
+    <select id="category-filter">
+      <option value="">Усі категорії</option>
+    </select>
+  </section>
+
+  <main id="status" class="status"></main>
+  <main id="catalog" class="catalog-grid"></main>
+
+  <script src="app.js"></script>
+</body>
+</html>

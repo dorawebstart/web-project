@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Панорамна 2-кімнатна",
+    "category": "Оренда",
+    "price": 30000,
+    "description": "Квартира біля парку, 2 кімнати, до 4 гостей.",
+    "image_url": "",
+    "available": true
+  },
+  {
+    "name": "Скандинавська студія",
+    "category": "Оренда",
+    "price": 20000,
+    "description": "Світла студія в центрі, Wi-Fi 200 Мбіт/с.",
+    "image_url": "",
+    "available": true
+  },
+  {
+    "name": "Пиріг з яловичиною та цибулею",
+    "category": "Випічка",
+    "price": 5000,
+    "description": "Фірмовий пиріг, 1000 г (6-8 порцій).",
+    "image_url": "",
+    "available": true
+  },
+  {
+    "name": "Пиріг з вишнею",
+    "category": "Випічка",
+    "price": 4600,
+    "description": "Солодкий пиріг на листковому тісті.",
+    "image_url": "",
+    "available": false
+  }
+]
