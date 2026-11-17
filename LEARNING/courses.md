@@ -35,6 +35,14 @@
 
 Примітка: знадобляться Linux-термінал і Python (для скриптів-експлойтів), а пізніше трохи C та асемблер.
 
+## Роадмапи / маршрути
+
+| # | Ресурс | Посилання | Про що |
+|---|---|---|---|
+| 1 | roadmap.sh | https://roadmap.sh | Community-роадмапи «що вчити за чим»: ролі (AI Engineer, Frontend, Backend, Cyber Security) і теми, з безкоштовними матеріалами |
+
+Корисні маршрути: [AI Engineer](https://roadmap.sh/ai-engineer), [Inference Engineering](https://roadmap.sh/inference-engineering).
+
 ## Інші
 
 _(додаватиму сюди)_
