@@ -47,6 +47,8 @@ Open Source Intelligence — розвідка за відкритими дани
 | 4 | EXIFdata | https://www.exifdata.com | Перегляд і редагування EXIF-метаданих фото (геолокація знімку тощо) |
 | 5 | Intelligence X | https://intelx.io | Пошук у витоках даних і архівах — передусім щоб перевірити власну експозицію (аналог Have I Been Pwned) |
 | 6 | Dorks collections list | https://github.com/cyb-detective/dorks-collections-list | Добірка пошукових дорків для Google, Shodan, Censys, GitHub та інших |
+| 7 | OSINT Framework | https://osintframework.com | Інтерактивна карта OSINT-інструментів за категоріями: Username, Email, Domain, Dark Web, Images тощо — зручна відправна точка |
+| 8 | Sherlock | https://github.com/sherlock-project/sherlock | Шукає акаунти за нікнеймом у 400+ соцмережах (Python CLI) |
 
 ## Роадмапи / маршрути
 

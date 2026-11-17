@@ -15,6 +15,8 @@ Open Source Intelligence — розвідка за відкритими дани
 - EXIFdata — метадані фото
 - Intelligence X — перевірка власних витоків даних
 - Dorks collections list — пошукові дорки (Google, Shodan, Censys)
+- OSINT Framework — карта всіх OSINT-інструментів за категоріями
+- Sherlock — акаунти за нікнеймом у 400+ соцмережах
 
 Повний список з посиланнями: `LEARNING/courses.md`
 
