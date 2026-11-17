@@ -37,6 +37,14 @@
 |---|---|---|---|---|
 | 1 | pwn.college (Arizona State University) | https://pwn.college | Розділи-«доджо», по кожному модулі й задачі | Практична кібербезпека й хакінг прямо в браузері, безкоштовно |
 
+### YouTube-канали (з відео @pocket_hacker6)
+
+| # | Канал | Посилання | Про що |
+|---|---|---|---|
+| 1 | NetworkChuck | https://www.youtube.com/@NetworkChuck | Мережі, VPN, домашні сервери, dark web, хакерські теми простою мовою |
+| 2 | John Hammond | https://www.youtube.com/@_JohnHammond | Безкоштовна кібербезпека та етичний хакінг: аналіз малварі, CTF, фішинг |
+| 3 | TCM Security | https://www.youtube.com/@TCMSecurityAcademy | Пентести, підготовка до PNPT-сертифікації, кар'єра в кібербезпеці |
+
 Матеріал треба проходити по порядку:
 
 1. **Getting Started (основи):** Start Here, Linux Luminarium (Linux і термінал), Computing 101, Playing With Programs.
@@ -59,6 +67,10 @@ Open Source Intelligence — розвідка за відкритими дани
 | 6 | Dorks collections list | https://github.com/cyb-detective/dorks-collections-list | Добірка пошукових дорків для Google, Shodan, Censys, GitHub та інших |
 | 7 | OSINT Framework | https://osintframework.com | Інтерактивна карта OSINT-інструментів за категоріями: Username, Email, Domain, Dark Web, Images тощо — зручна відправна точка |
 | 8 | Sherlock | https://github.com/sherlock-project/sherlock | Шукає акаунти за нікнеймом у 400+ соцмережах (Python CLI) |
+
+## Веб-розробка: техніки, промти, дизайни
+
+Це окремий живий файл, не разовий список — додавай туди нові техніки, промти для AI та посилання на дизайни, коли знаходиш: `LEARNING/frontend/README.md`
 
 ## Роадмапи / маршрути
 
