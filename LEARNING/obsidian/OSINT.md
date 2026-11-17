@@ -17,6 +17,7 @@ Open Source Intelligence — розвідка за відкритими дани
 - Dorks collections list — пошукові дорки (Google, Shodan, Censys)
 - OSINT Framework — карта всіх OSINT-інструментів за категоріями
 - Sherlock — акаунти за нікнеймом у 400+ соцмережах
+- blackbird — акаунти за нікнеймом (деталі: [[Цікаві GitHub-проєкти]])
 
 Повний список з посиланнями: `LEARNING/courses.md`
 

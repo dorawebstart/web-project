@@ -68,6 +68,18 @@ Open Source Intelligence — розвідка за відкритими дани
 
 Корисні маршрути: [AI Engineer](https://roadmap.sh/ai-engineer), [Inference Engineering](https://roadmap.sh/inference-engineering).
 
+## Цікаві GitHub-проєкти (з відео @github_radar)
+
+Не курси, а готові відкриті інструменти — подивитись, як влаштовані, і за потреби використати.
+
+| # | Проєкт | Посилання | Що робить |
+|---|---|---|---|
+| 1 | blackbird | https://github.com/p1ngul1n0/blackbird | OSINT: шукає акаунти за нікнеймом на багатьох сайтах (схоже на Sherlock/Maigret) |
+| 2 | android-sms-gateway | https://github.com/capcom6/android-sms-gateway | Перетворює Android-телефон на SMS-шлюз з API: надсилання/приймання SMS, вебхуки, шифрування |
+| 3 | voicetypr | https://github.com/moinulmoin/voicetypr | Розпізнавання голосу в текст, локально; можна викликати з CLI чи своїх скриптів |
+| 4 | openfaas/faas | https://github.com/openfaas/faas | Self-hosted платформа для serverless-функцій і мікросервісів на Kubernetes |
+| 5 | websocketd | https://github.com/joewalnes/websocketd | Перетворює будь-яку програму (що читає stdin/пише stdout) на WebSocket-сервер — на будь-якій мові |
+
 ## Інші
 
 _(додаватиму сюди)_
