@@ -38,7 +38,8 @@
 
 | # | Курс | Посилання | Про що |
 |---|---|---|---|
-| 1 | CCNA: Introduction to Networks (Cisco NetAcad) | https://netacad.com/courses/ccna-introduction-networks | Перший з трьох курсів для сертифікації CCNA: основи мереж, безкоштовно, з лабами |
+| 1 | CCNA: Introduction to Networks (Cisco NetAcad) | https://netacad.com/courses/ccna-introduction-networks | 🟢 **Зараз вчу** (через КПІ, дедлайн 31.01.2027). Перший з трьох курсів для сертифікації CCNA: основи мереж, з лабами |
+| 2 | Початок роботи з Cisco Packet Tracer | https://netacad.com | 🟢 **Зараз вчу**. Симулятор мереж Cisco: потрібен для лаб і фінального Packet Tracer Assessment у CCNA |
 
 ## SQL (інтерактивно)
 
