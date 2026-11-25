@@ -92,6 +92,26 @@ Open Source Intelligence — розвідка за відкритими дани
 | 4 | openfaas/faas | https://github.com/openfaas/faas | Self-hosted платформа для serverless-функцій і мікросервісів на Kubernetes |
 | 5 | websocketd | https://github.com/joewalnes/websocketd | Перетворює будь-яку програму (що читає stdin/пише stdout) на WebSocket-сервер — на будь-якій мові |
 
+## Claude Code: скіл-бандли
+
+Готові набори скілів/агентів для Claude Code. Ставити треба локально у СВОЄМУ
+Claude Code (на ноутбуці), не в хмарній сесії.
+
+| # | Бандл | Посилання | Що це | Як поставити |
+|---|---|---|---|---|
+| 1 | everything-claude-code | https://github.com/affaan-m/everything-claude-code | Великий набір загальних дев-скілів (code-review, tdd-workflow, plan, security-review), 262 скіли / 64 агенти / 84 команди | У Claude Code: `/plugin marketplace add affaan-m/everything-claude-code`, далі `/plugin install` потрібного |
+| 2 | Claude-BugHunter | https://github.com/elementalsouls/Claude-BugHunter | Наступальний bug-bounty бандл: recon, IDOR, обхід авторизації, Burp MCP | `/plugin marketplace add elementalsouls/Claude-BugHunter` → `/plugin install claude-bughunter@elementalsouls`, або `git clone` + `bash scripts/install.sh` |
+
+> ⚠️ **Claude-BugHunter — тільки для авторизованих цілей.** Наводити можна лише на
+> свої застосунки, CTF або bug bounty програму, яка це дозволяє (з письмовим
+> дозволом). Проти чужого сайту без дозволу — протиправно.
+
+## Автоматизація / скрапінг
+
+| # | Сервіс | Посилання | Що це |
+|---|---|---|---|
+| 1 | 2captcha | https://2captcha.com | Сервіс розпізнавання/обходу капч через API. Сіра зона: обходить анти-бот захист сайтів. Використовувати лише там, де це не порушує правил сайту й закону |
+
 ## Інші
 
 _(додаватиму сюди)_
