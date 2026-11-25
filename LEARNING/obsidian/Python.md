@@ -8,6 +8,7 @@ tags: [напрям, python]
 ## Курси
 - [[Поколение Python — начинающие]]
 - [[Поколение Python — продвинутые]]
+- Python Essentials 1 & 2 (Cisco NetAcad) — netacad.com, з сертифікатом
 
 ## Проєкти
 - [[Каталог (Google Sheets  Telegram-бот)]]

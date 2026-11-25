@@ -18,6 +18,7 @@ Open Source Intelligence — розвідка за відкритими дани
 - OSINT Framework — карта всіх OSINT-інструментів за категоріями
 - Sherlock — акаунти за нікнеймом у 400+ соцмережах
 - blackbird — акаунти за нікнеймом (деталі: [[Цікаві GitHub-проєкти]])
+- start.me OSINT4ALL — дошка-хаб усіх OSINT-ресурсів (start.me/p/L1rEYQ/osint4all)
 
 Повний список з посиланнями: `LEARNING/courses.md`
 

@@ -9,6 +9,7 @@ tags: [напрям, ai]
 - [[AI For Beginners]]
 - [[Generative AI for Beginners]]
 - [[AI Agents for Beginners]]
+- CMU 15-442 Machine Learning Systems — cs.cmu.edu/~15442 (на потім, рівень університету)
 
 ## Маршрути
 - [[AI Engineer (roadmap)]]

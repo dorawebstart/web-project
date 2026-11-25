@@ -8,8 +8,10 @@
 |---|---|---|---|---|
 | 1 | «Поколение Python»: курс для начинающих | https://stepik.org/course/58852 | 500+ задач з автоперевіркою | Змінні, умови, цикли, рядки, списки: база алгоритмів |
 | 2 | «Поколение Python»: курс для продвинутых | https://stepik.org/course/68343 | 700+ задач | Вкладені списки й матриці, кортежі, множини, словники, функції, модулі (random, string, decimal), робота з файлами |
+| 3 | Python Essentials 1 (Cisco NetAcad) | https://netacad.com/courses/python-essentials-1 | ~30 год | Офіційний курс Cisco/Python Institute: основи програмування, з сертифікатом. Є українська мова |
+| 4 | Python Essentials 2 (Cisco NetAcad) | https://netacad.com/courses/python-essentials-2 | ~40 год | Продовження: модулі, пакети, PIP, рядки, ООП. Разом із PE1 ~70 год, з сертифікатом |
 
-Обидва курси безкоштовні (Stepik), мова: російська. Проходимо по черзі: спочатку для начинающих, потім для продвинутых.
+Курси «Поколение Python» безкоштовні (Stepik), мова: російська. Проходимо по черзі: спочатку для начинающих, потім для продвинутых. Cisco NetAcad — безкоштовні, з офіційним сертифікатом, можна як паралельний трек або друга думка.
 
 ## Git та GitHub
 
@@ -28,8 +30,21 @@
 | 1 | AI For Beginners (Microsoft) | https://github.com/microsoft/AI-For-Beginners | 12 тижнів, 24 уроки | Основи AI: нейромережі, Computer Vision (OpenCV, CNN), NLP, PyTorch / TensorFlow |
 | 2 | Generative AI for Beginners (Microsoft) | https://github.com/microsoft/generative-ai-for-beginners | 21 урок | Генеративний AI: LLM, промпти, RAG і векторні БД, open-source моделі та Hugging Face, AI-агенти |
 | 3 | AI Agents for Beginners (Microsoft) | https://github.com/microsoft/ai-agents-for-beginners | 18 уроків | AI-агенти: патерни Planning, Multi-Agent, Metacognition, агенти в продакшені |
+| 4 | CMU 15-442 Machine Learning Systems | https://www.cs.cmu.edu/~15442/ | Університетський курс (лекції Tianqi Chen) | Системи для ML: compute, scaling, інфраструктура. Складний, на потім — коли буде база |
 
-Примітка: усі три курси використовують Python, тому база Python потрібна перед ними.
+Примітка: усі курси використовують Python, тому база Python потрібна перед ними. CMU 15-442 — рівень університету, залишаємо наостанок.
+
+## Мережі (з відео @magerdev1)
+
+| # | Курс | Посилання | Про що |
+|---|---|---|---|
+| 1 | CCNA: Introduction to Networks (Cisco NetAcad) | https://netacad.com/courses/ccna-introduction-networks | Перший з трьох курсів для сертифікації CCNA: основи мереж, безкоштовно, з лабами |
+
+## SQL (інтерактивно)
+
+| # | Курс | Посилання | Про що |
+|---|---|---|---|
+| 1 | Query The Murder | https://querythemurder.com | Вчиш SQL, розслідуючи «вбивства»: SELECT, WHERE, ORDER BY, BETWEEN, LIKE на справжніх таблицях. Легкі й середні кейси. Добре лягає поряд із Python |
 
 ## Кібербезпека (з відео @magerdev1)
 
@@ -67,10 +82,15 @@ Open Source Intelligence — розвідка за відкритими дани
 | 6 | Dorks collections list | https://github.com/cyb-detective/dorks-collections-list | Добірка пошукових дорків для Google, Shodan, Censys, GitHub та інших |
 | 7 | OSINT Framework | https://osintframework.com | Інтерактивна карта OSINT-інструментів за категоріями: Username, Email, Domain, Dark Web, Images тощо — зручна відправна точка |
 | 8 | Sherlock | https://github.com/sherlock-project/sherlock | Шукає акаунти за нікнеймом у 400+ соцмережах (Python CLI) |
+| 9 | start.me OSINT4ALL | https://start.me/p/L1rEYQ/osint4all | Велика дошка-добірка OSINT-ресурсів: пошуковики, карти, username-інструменти, people search — єдиний хаб |
 
-## Веб-розробка: техніки, промти, дизайни
+## Веб-розробка
 
-Це окремий живий файл, не разовий список — додавай туди нові техніки, промти для AI та посилання на дизайни, коли знаходиш: `LEARNING/frontend/README.md`
+| # | Курс | Посилання | Про що |
+|---|---|---|---|
+| 1 | The Odin Project | https://www.theodinproject.com | Безкоштовний full-stack курс: Foundations (HTML/CSS/JS, проєкти Etch-a-Sketch, Calculator), далі Node.js, Express, PostgreSQL, пошук роботи. Сильна альтернатива платним |
+
+**Техніки, промти, дизайни** — окремий живий файл, не разовий список: додавай туди нові техніки, промти для AI та посилання на дизайни, коли знаходиш: `LEARNING/frontend/README.md`
 
 ## Роадмапи / маршрути
 
